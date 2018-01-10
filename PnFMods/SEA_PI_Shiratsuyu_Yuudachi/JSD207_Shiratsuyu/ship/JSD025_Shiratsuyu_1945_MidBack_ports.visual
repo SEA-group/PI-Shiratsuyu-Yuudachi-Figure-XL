@@ -1,1 +1,123 @@
-<JSD025_Shiratsuyu_1945_MidBack_ports.visual><boundingBox><min>-0.066700 -0.066700 -0.066700</min><max>0.066700 0.066700 0.066700</max></boundingBox><node><identifier>Scene Root</identifier><transform><row0>1.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000</row1><row2>0.000000 0.000000 1.000000</row2><row3>0.000000 0.000000 0.000000</row3></transform><node><identifier>MidBack_ports</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform><node><identifier>HP_JF_2</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.179933 0.355454 -1.016871 1.000000</row3></transform></node><node><identifier>HP_JGM_2</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.187182 -1.818704 1.000000</row3></transform></node><node><identifier>HP_JGT_2</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.198333 -0.678290 1.000000</row3></transform></node><node><identifier>MP_JM125_Signal_Lamp_3</identifier><transform><row0>0.000000 0.000000 1.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>-1.000000 0.000000 0.000000 0.000000</row2><row3>0.111348 0.966314 -1.311655 1.000000</row3></transform></node><node><identifier>MP_JM304_Running_Lights_B</identifier><transform><row0>-0.773753 0.000000 0.000000 0.000000</row0><row1>0.000000 0.773753 0.000000 0.000000</row1><row2>0.000000 0.000000 -0.773753 0.000000</row2><row3>0.111239 0.906266 -1.321695 1.000000</row3></transform></node><node><identifier>MP_JTD0658</identifier><transform><row0>1.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000</row1><row2>0.000000 0.000000 1.000000</row2><row3>-0.183946 0.180968 -1.427095</row3></transform></node><node><identifier>MP_JM030_Wind_Direction</identifier><transform><row0>0.500000 0.000000 0.000000 0.000000</row0><row1>0.000000 0.500000 0.000000 0.000000</row1><row2>0.000000 0.000000 0.500000 0.000000</row2><row3>0.111366 0.980862 -1.311666 1.000000</row3></transform></node><node><identifier>MP_CM011_Fire_Fighting_Gear</identifier><transform><row0>0.873941 0.000000 -0.486033 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.486033 0.000000 0.873941 0.000000</row2><row3>0.231428 0.173527 -1.331883 1.000000</row3></transform></node><node><identifier>MP_CM030_Swab_Rack_2</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.181182 0.173269 -0.978675 1.000000</row3></transform></node><node><identifier>HP_Fire_Burn_3</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 -1.163413 1.000000</row3></transform></node><node><identifier>HP_Ship_death_2</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 -0.483372 1.000000</row3></transform></node></node></node></JSD025_Shiratsuyu_1945_MidBack_ports.visual>
+<JSD025_Shiratsuyu_1945_MidBack_ports.visual>
+	<boundingBox>
+		<min>	-0.066700 -0.066700 -0.066700	</min>
+		<max>	0.066700 0.066700 0.066700	</max>
+	</boundingBox>
+	<node>
+		<identifier>	Scene Root	</identifier>
+		<transform>
+			<row0>	1.000000 0.000000 0.000000	</row0>
+			<row1>	0.000000 1.000000 0.000000	</row1>
+			<row2>	0.000000 0.000000 1.000000	</row2>
+			<row3>	0.000000 0.000000 0.000000	</row3>
+		</transform>
+		<node>
+			<identifier>	MidBack_ports	</identifier>
+			<transform>
+				<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+				<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+				<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+			</transform>
+			<node>
+				<identifier>	HP_JF_2	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.179933 0.355454 -1.016871 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_JGM_2	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.187182 -1.818704 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_JGT_2	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.198333 -0.678290 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JM125_Signal_Lamp_3	</identifier>
+				<transform>
+					<row0>	0.000000 0.000000 1.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	-1.000000 0.000000 0.000000 0.000000	</row2>
+					<row3>	0.111348 0.966314 -1.311655 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JM304_Running_Lights_B	</identifier>
+				<transform>
+					<row0>	-0.773753 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 0.773753 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 -0.773753 0.000000	</row2>
+					<row3>	0.111239 0.906266 -1.321695 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JTD0658	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000	</row2>
+					<row3>	-0.183946 0.180968 -1.427095	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JM030_Wind_Direction	</identifier>
+				<transform>
+					<row0>	0.500000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 0.500000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 0.500000 0.000000	</row2>
+					<row3>	0.111366 0.980862 -1.311666 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_CM011_Fire_Fighting_Gear	</identifier>
+				<transform>
+					<row0>	0.873941 0.000000 -0.486033 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.486033 0.000000 0.873941 0.000000	</row2>
+					<row3>	0.231428 0.173527 -1.331883 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_CM030_Swab_Rack_2	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.181182 0.173269 -0.978675 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_Fire_Burn_3	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 -1.163413 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_Ship_death_2	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 -0.483372 1.000000	</row3>
+				</transform>
+			</node>
+		</node>
+	</node>
+</JSD025_Shiratsuyu_1945_MidBack_ports.visual>

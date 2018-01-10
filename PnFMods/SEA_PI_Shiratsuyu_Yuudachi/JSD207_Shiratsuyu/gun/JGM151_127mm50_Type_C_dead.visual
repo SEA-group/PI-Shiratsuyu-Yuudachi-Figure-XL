@@ -1,1 +1,38 @@
-<JGM151_127mm50_Type_C_dead.visual><boundingBox><min>-0.169297 0.000000 -0.249171</min><max>0.178567 0.226214 0.347110</max></boundingBox><node><identifier>Scene Root</identifier><transform><row0>1.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000</row1><row2>0.000000 0.000000 1.000000</row2><row3>0.000000 0.000000 0.000000</row3></transform><node><identifier>Turret_dead</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform></node></node><renderSet><treatAsWorldSpaceObject>false</treatAsWorldSpaceObject><node>Turret_dead</node><geometry><vertices>Turret_deadShape.vertices</vertices><primitive>Turret_deadShape.indices</primitive><primitiveGroup>0<material><identifier>SHIPMAT_PBS_GunXDead</identifier><mfm>PnFMods/SEA_PI_Shiratsuyu_Yuudachi/JSD207_Shiratsuyu/gun/ff31685e6cf4068bd6da469b93adf8f6.mfm</mfm></material></primitiveGroup></geometry></renderSet></JGM151_127mm50_Type_C_dead.visual>
+<JGM151_127mm50_Type_C_dead.visual>
+	<boundingBox>
+		<min>	-0.169297 0.000000 -0.249171	</min>
+		<max>	0.178567 0.226214 0.347110	</max>
+	</boundingBox>
+	<node>
+		<identifier>	Scene Root	</identifier>
+		<transform>
+			<row0>	1.000000 0.000000 0.000000	</row0>
+			<row1>	0.000000 1.000000 0.000000	</row1>
+			<row2>	0.000000 0.000000 1.000000	</row2>
+			<row3>	0.000000 0.000000 0.000000	</row3>
+		</transform>
+		<node>
+			<identifier>	Turret_dead	</identifier>
+			<transform>
+				<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+				<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+				<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+			</transform>
+		</node>
+	</node>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	Turret_dead	</node>
+		<geometry>
+			<vertices>	Turret_deadShape.vertices	</vertices>
+			<primitive>	Turret_deadShape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMAT_PBS_GunDeadX	</identifier>
+					<mfm>	PnFMods/SEA_PI_Shiratsuyu_Yuudachi/JSD207_Shiratsuyu/gun/JGM151_127mm50_Type_C_dead.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+</JGM151_127mm50_Type_C_dead.visual>

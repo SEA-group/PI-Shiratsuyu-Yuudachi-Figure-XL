@@ -1,1 +1,38 @@
-<JRS064_Radar_E27_fixed_lod1.visual><node><identifier>Scene Root</identifier><transform><row0>1.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000</row1><row2>0.000000 0.000000 1.000000</row2><row3>0.000000 0.000000 0.000000</row3></transform><node><identifier>TypeA6</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform></node></node><renderSet><treatAsWorldSpaceObject>false</treatAsWorldSpaceObject><node>TypeA6</node><geometry><vertices>TypeA6_lod1Shape.vertices</vertices><primitive>TypeA6_lod1Shape.indices</primitive><primitiveGroup>0<material><identifier>SHIPMAT_PBS_Director</identifier><mfm>PnFMods/SEA_PI_Shiratsuyu_Yuudachi/JSD207_Shiratsuyu/radar/a9089a25f433591759bc732d01ba2c20.mfm</mfm></material></primitiveGroup></geometry></renderSet><boundingBox><min>0.000088 -0.043703 -0.044301</min><max>0.027404 0.044068 0.044724</max></boundingBox></JRS064_Radar_E27_fixed_lod1.visual>
+<JRS064_Radar_E27_fixed_lod1.visual>
+	<node>
+		<identifier>	Scene Root	</identifier>
+		<transform>
+			<row0>	1.000000 0.000000 0.000000	</row0>
+			<row1>	0.000000 1.000000 0.000000	</row1>
+			<row2>	0.000000 0.000000 1.000000	</row2>
+			<row3>	0.000000 0.000000 0.000000	</row3>
+		</transform>
+		<node>
+			<identifier>	TypeA6	</identifier>
+			<transform>
+				<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+				<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+				<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+			</transform>
+		</node>
+	</node>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	TypeA6	</node>
+		<geometry>
+			<vertices>	TypeA6_lod1Shape.vertices	</vertices>
+			<primitive>	TypeA6_lod1Shape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMAT_PBS_Director	</identifier>
+					<mfm>	PnFMods/SEA_PI_Shiratsuyu_Yuudachi/JSD207_Shiratsuyu/radar/JRS064_Radar_E27_fixed.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<boundingBox>
+		<min>	0.000088 -0.043703 -0.044301	</min>
+		<max>	0.027404 0.044068 0.044724	</max>
+	</boundingBox>
+</JRS064_Radar_E27_fixed_lod1.visual>

@@ -1,0 +1,17 @@
+<JF043_Rangefinder_66cm.mfm>
+	<fx>	shaders/std_effects/PBS_ship.fx	</fx>
+	<collisionFlags>	0	</collisionFlags>
+	<materialKind>	0	</materialKind>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_PI_Shiratsuyu_Yuudachi/JSD207_Shiratsuyu/finder/JF043_Rangefinder_66cm_a.tga	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_PI_Shiratsuyu_Yuudachi/JSD207_Shiratsuyu/finder/JF043_Rangefinder_66cm_mg.tga	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_PI_Shiratsuyu_Yuudachi/JSD207_Shiratsuyu/finder/JF043_Rangefinder_66cm_n.tga	</Texture>
+	</property>
+	<property>	ambientOcclusionMap
+		<Texture>	PnFMods/SEA_PI_Shiratsuyu_Yuudachi/JSD207_Shiratsuyu/finder/default_ao.tga	</Texture>
+	</property>
+</JF043_Rangefinder_66cm.mfm>

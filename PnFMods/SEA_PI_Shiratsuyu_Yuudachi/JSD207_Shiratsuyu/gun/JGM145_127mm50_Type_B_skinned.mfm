@@ -1,0 +1,20 @@
+<JGM145_127mm50_Type_B_skinned.mfm>
+	<materialKind>	0	</materialKind>
+	<collisionFlags>	0	</collisionFlags>
+	<fx>	shaders/std_effects/PBS_skinned_emissive.fx	</fx>
+	<property>	emissivePower
+		<Float>	2.00000	</Float>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_PI_Shiratsuyu_Yuudachi/JSD207_Shiratsuyu/gun/JGM145_127mm50_Type_B_n.tga	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_PI_Shiratsuyu_Yuudachi/JSD207_Shiratsuyu/gun/JGM145_127mm50_Type_B_mg.tga	</Texture>
+	</property>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_PI_Shiratsuyu_Yuudachi/JSD207_Shiratsuyu/gun/JGM145_127mm50_Type_B_a.tga	</Texture>
+	</property>
+	<property>	ambientOcclusionMap
+		<Texture>	PnFMods/SEA_PI_Shiratsuyu_Yuudachi/JSD207_Shiratsuyu/gun/default_ao.tga	</Texture>
+	</property>
+</JGM145_127mm50_Type_B_skinned.mfm>
