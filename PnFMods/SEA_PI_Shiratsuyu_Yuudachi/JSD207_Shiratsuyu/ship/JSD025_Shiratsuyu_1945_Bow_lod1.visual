@@ -74,7 +74,7 @@
 			<primitive>	Bow_lod1Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Hull	</identifier>
+					<identifier>	SHIPMAT_PBS_HullX	</identifier>
 					<mfm>	PnFMods/SEA_PI_Shiratsuyu_Yuudachi/JSD207_Shiratsuyu/ship/JSD025_Shiratsuyu_1945.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -108,7 +108,7 @@
 			<primitive>	Bow_patch_MidFront_lod1Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Hull	</identifier>
+					<identifier>	SHIPMAT_PBS_HullX	</identifier>
 					<mfm>	PnFMods/SEA_PI_Shiratsuyu_Yuudachi/JSD207_Shiratsuyu/ship/JSD025_Shiratsuyu_1945.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -136,7 +136,7 @@
 			<primitive>	Bow_crack_MidFront_lod1Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Hull	</identifier>
+					<identifier>	SHIPMAT_PBS_HullX	</identifier>
 					<mfm>	PnFMods/SEA_PI_Shiratsuyu_Yuudachi/JSD207_Shiratsuyu/ship/JSD025_Shiratsuyu_1945.mfm	</mfm>
 				</material>
 			</primitiveGroup>
