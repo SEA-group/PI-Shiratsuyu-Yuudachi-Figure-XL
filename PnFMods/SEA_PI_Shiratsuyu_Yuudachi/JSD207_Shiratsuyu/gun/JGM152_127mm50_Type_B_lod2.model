@@ -1,9 +1,0 @@
-<JGM152_127mm50_Type_B_lod2.model>
-	<exporter>	1.6	</exporter>
-	<parent>	PnFMods/SEA_PI_Shiratsuyu_Yuudachi/JSD207_Shiratsuyu/gun/JGM152_127mm50_Type_B_lod3	</parent>
-	<extent>	20.0000	</extent>
-	<materialNames />
-	<castsShadow>	true	</castsShadow>
-	<nodefullVisual>	PnFMods/SEA_PI_Shiratsuyu_Yuudachi/JSD207_Shiratsuyu/gun/JGM152_127mm50_Type_B_lod2	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
-</JGM152_127mm50_Type_B_lod2.model>

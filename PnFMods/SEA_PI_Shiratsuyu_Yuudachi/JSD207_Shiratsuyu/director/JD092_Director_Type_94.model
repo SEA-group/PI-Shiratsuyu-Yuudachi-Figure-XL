@@ -1,6 +1,6 @@
 <JD092_Director_Type_94.model>
 	<exporter>	1.6	</exporter>
-	<parent>	PnFMods/SEA_PI_Shiratsuyu_Yuudachi/JSD207_Shiratsuyu/director/JD092_Director_Type_94_lod1	</parent>
+	<parent>	PnFMods/SEA_PI_Shiratsuyu_Yuudachi/JSD207_Shiratsuyu/director/lods/JD092_Director_Type_94_lod1	</parent>
 	<extent>	2.0000	</extent>
 	<materialNames />
 	<castsShadow>	false	</castsShadow>

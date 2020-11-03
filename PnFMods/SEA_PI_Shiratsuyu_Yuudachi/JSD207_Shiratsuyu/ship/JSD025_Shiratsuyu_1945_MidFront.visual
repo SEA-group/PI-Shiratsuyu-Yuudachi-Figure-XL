@@ -20,6 +20,42 @@
 				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
 			</transform>
 			<node>
+				<identifier>	Kao	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	Kami	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	Karata	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	Suika	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
 				<identifier>	MidFront_patch_MidBack	</identifier>
 				<transform>
 					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
@@ -114,27 +150,59 @@
 					<mfm>	PnFMods/SEA_PI_Shiratsuyu_Yuudachi/JSD207_Shiratsuyu/ship/JSD025_Shiratsuyu_1945.mfm	</mfm>
 				</material>
 			</primitiveGroup>
-			<primitiveGroup>	1
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	Kami	</node>
+		<geometry>
+			<vertices>	SEA_Kami.vertices	</vertices>
+			<primitive>	SEA_Kami.indices	</primitive>
+			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Yuudachi_Kami	</identifier>
+					<identifier>	SHIPMAT_PBS_KamiX	</identifier>
 					<mfm>	PnFMods/SEA_PI_Shiratsuyu_Yuudachi/JSD207_Shiratsuyu/ship/JSD025_Yuudachi_Kami.mfm	</mfm>
 				</material>
 			</primitiveGroup>
-			<primitiveGroup>	2
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	Kao	</node>
+		<geometry>
+			<vertices>	SEA_Kao.vertices	</vertices>
+			<primitive>	SEA_Kao.indices	</primitive>
+			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Yuudachi_Kao	</identifier>
+					<identifier>	SHIPMAT_PBS_KaoX	</identifier>
 					<mfm>	PnFMods/SEA_PI_Shiratsuyu_Yuudachi/JSD207_Shiratsuyu/ship/JSD025_Yuudachi_Kao.mfm	</mfm>
 				</material>
 			</primitiveGroup>
-			<primitiveGroup>	3
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	Karata	</node>
+		<geometry>
+			<vertices>	SEA_Karata.vertices	</vertices>
+			<primitive>	SEA_Karata.indices	</primitive>
+			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Yuudachi_Karata	</identifier>
+					<identifier>	SHIPMAT_PBS_KarataX	</identifier>
 					<mfm>	PnFMods/SEA_PI_Shiratsuyu_Yuudachi/JSD207_Shiratsuyu/ship/JSD025_Yuudachi_Karata.mfm	</mfm>
 				</material>
 			</primitiveGroup>
-			<primitiveGroup>	4
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	Suika	</node>
+		<geometry>
+			<vertices>	SEA_Suika.vertices	</vertices>
+			<primitive>	SEA_Suika.indices	</primitive>
+			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Suika	</identifier>
+					<identifier>	SHIPMAT_PBS_SuikaX	</identifier>
 					<mfm>	PnFMods/SEA_PI_Shiratsuyu_Yuudachi/JSD207_Shiratsuyu/ship/JSD025_Yuudachi_Suika.mfm	</mfm>
 				</material>
 			</primitiveGroup>

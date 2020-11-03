@@ -1,7 +1,7 @@
 <JGA018_25mm_Type96_single_dead.model>
 	<castsShadow>	false	</castsShadow>
 	<extent>	2.000000	</extent>
-	<parent>	PnFMods/SEA_PI_Shiratsuyu_Yuudachi/JSD207_Shiratsuyu/gun/JGA018_25mm_Type96_single_dead_lod1	</parent>
+	<parent>	PnFMods/SEA_PI_Shiratsuyu_Yuudachi/JSD207_Shiratsuyu/gun/lods/JGA018_25mm_Type96_single_dead_lod1	</parent>
 	<materialNames />
 	<visibilityBox>
 		<min>	-0.023739 0.001068 -0.067285	</min>

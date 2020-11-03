@@ -1,6 +1,6 @@
 <JSD025_Shiratsuyu_1945_MidFront.model>
 	<exporter>	1.6	</exporter>
-	<parent>	PnFMods/SEA_PI_Shiratsuyu_Yuudachi/JSD207_Shiratsuyu/ship/JSD025_Shiratsuyu_1945_MidFront_lod1	</parent>
+	<parent>	PnFMods/SEA_PI_Shiratsuyu_Yuudachi/JSD207_Shiratsuyu/ship/lods/JSD025_Shiratsuyu_1945_MidFront_lod1	</parent>
 	<extent>	5.0000	</extent>
 	<materialNames />
 	<castsShadow>	true	</castsShadow>
