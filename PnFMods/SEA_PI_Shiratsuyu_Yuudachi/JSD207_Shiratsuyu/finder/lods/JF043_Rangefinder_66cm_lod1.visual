@@ -29,7 +29,7 @@
 			<primitive>	Rangefinder66cm_lod1Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_radar	</identifier>
+					<identifier>	SHIPMATX_PBS_radar	</identifier>
 					<mfm>	PnFMods/SEA_PI_Shiratsuyu_Yuudachi/JSD207_Shiratsuyu/finder/JF043_Rangefinder_66cm.mfm	</mfm>
 				</material>
 			</primitiveGroup>
