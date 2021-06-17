@@ -74,6 +74,33 @@
 				</transform>
 			</node>
 			<node>
+				<identifier>	HP_JGB_1	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.0000 0.1823 -2.7000 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_JGB_2	</identifier>
+				<transform>
+					<row0>	-0.3536 -0.0175 0.9353 0.0000	</row0>
+					<row1>	-0.0225 0.9997 0.0102 0.0000	</row1>
+					<row2>	-0.9351 -0.0174 -0.3538 0.0000	</row2>
+					<row3>	-0.1669 0.1825 -3.3982 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_JGB_3	</identifier>
+				<transform>
+					<row0>	-0.3536 0.0175 -0.9353 0.0000	</row0>
+					<row1>	0.0225 0.9997 0.0102 0.0000	</row1>
+					<row2>	0.9351 -0.0174 -0.3538 0.0000	</row2>
+					<row3>	0.1669 0.1825 -3.3982 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
 				<identifier>	HP_JGA_11	</identifier>
 				<transform>
 					<row0>	-0.707107 0.000000 0.707107 0.000000	</row0>
