@@ -110,15 +110,6 @@
 				</transform>
 			</node>
 			<node>
-				<identifier>	MP_JTD0658	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000	</row2>
-					<row3>	-0.183946 0.180968 -1.427095	</row3>
-				</transform>
-			</node>
-			<node>
 				<identifier>	MP_JM030_Wind_Direction	</identifier>
 				<transform>
 					<row0>	0.500000 0.000000 0.000000 0.000000	</row0>

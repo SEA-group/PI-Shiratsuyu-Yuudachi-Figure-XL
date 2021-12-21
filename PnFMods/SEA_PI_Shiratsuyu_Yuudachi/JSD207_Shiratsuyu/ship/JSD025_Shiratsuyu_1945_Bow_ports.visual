@@ -56,12 +56,57 @@
 				</transform>
 			</node>
 			<node>
-				<identifier>	MP_JM285_Anchor_Capstan_high	</identifier>
+				<identifier>	MP_CM086_Anchor_top	</identifier>
 				<transform>
-					<row0>	0.550639 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 0.548510 -0.048374 0.000000	</row1>
-					<row2>	0.000000 0.048374 0.548510 0.000000	</row2>
-					<row3>	0.000000 0.339194 3.039370 1.000000	</row3>
+					<row0>	-0.5550 0.8169 0.2751 0.0000	</row0>
+					<row1>	0.2051 0.4429 -0.9015 0.0000	</row1>
+					<row2>	-0.8372 -0.4330 -0.4032 0.0000	</row2>
+					<row3>	-0.0597 0.3157 3.5273 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_CM086_Anchor_top_INDEX_1	</identifier>
+				<transform>
+					<row0>	-0.5550 -0.8169 -0.2751 0.0000	</row0>
+					<row1>	-0.2051 0.4429 -0.9015 0.0000	</row1>
+					<row2>	0.8372 -0.4330 -0.4032 0.0000	</row2>
+					<row3>	0.0597 0.3157 3.5273 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_CM087_Anchor_down	</identifier>
+				<transform>
+					<row0>	-0.5691 -0.7998 -0.2957 0.0000	</row0>
+					<row1>	0.2619 0.1744 -0.9757 0.0000	</row1>
+					<row2>	0.8115 -0.6172 0.1075 0.0000	</row2>
+					<row3>	0.0597 0.3157 3.5273 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_CM087_Anchor_down_INDEX_1	</identifier>
+				<transform>
+					<row0>	-0.5691 0.7998 0.2957 0.0000	</row0>
+					<row1>	-0.2619 0.1744 -0.9757 0.0000	</row1>
+					<row2>	-0.8115 -0.6172 0.1075 0.0000	</row2>
+					<row3>	-0.0597 0.3157 3.5273 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JM142_Chain_Fairlead	</identifier>
+				<transform>
+					<row0>	0.8612 0.0000 0.5082 0.0000	</row0>
+					<row1>	0.0428 0.9964 -0.0725 0.0000	</row1>
+					<row2>	-0.5064 0.0842 0.8582 0.0000	</row2>
+					<row3>	-0.0602 0.3458 3.1915 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JM142_Chain_Fairlead_INDEX_1	</identifier>
+				<transform>
+					<row0>	0.8612 0.0000 -0.5082 0.0000	</row0>
+					<row1>	-0.0428 0.9964 -0.0725 0.0000	</row1>
+					<row2>	0.5064 0.0842 0.8582 0.0000	</row2>
+					<row3>	0.0602 0.3458 3.1915 1.0000	</row3>
 				</transform>
 			</node>
 			<node>
@@ -74,39 +119,12 @@
 				</transform>
 			</node>
 			<node>
-				<identifier>	MP_CTD0670	</identifier>
+				<identifier>	MP_JM285_Anchor_Capstan_high	</identifier>
 				<transform>
-					<row0>	1.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000	</row2>
-					<row3>	0.000000 0.315738 3.527267	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_CTD0671	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000	</row2>
-					<row3>	0.000000 0.315738 3.527267	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_JM141_Break_Handwheel_1	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-					<row3>	0.000627 0.329187 2.981423 1.000000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_JTD0655	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000	</row2>
-					<row3>	0.000000 0.345773 3.191528	</row3>
+					<row0>	0.550639 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 0.548510 -0.048374 0.000000	</row1>
+					<row2>	0.000000 0.048374 0.548510 0.000000	</row2>
+					<row3>	0.000000 0.339194 3.039370 1.000000	</row3>
 				</transform>
 			</node>
 			<node>
